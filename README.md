@@ -25,7 +25,7 @@ XIAO ESP32S3を搭載したクローラーロボットからのリアルタイ�
 
 ## インストールとセットアップ
 1. プロジェクトを以下のコマンドでクローンします。
-2. 
+
 ```bash
 git clone https://github.com/tani-ryusuke/crawler-android-app.git
 ```
