@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\gamep\Desktop\fin\CrawlerApp_vUART\sdk\.cxx\Debug\6f2o1o4g\arm64-v8a'
+ninja: no work to do.

@@ -1,0 +1,19 @@
+@echo off
+"C:\\Users\\gamep\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HC:\\Users\\gamep\\Desktop\\fin\\CrawlerApp_vUART\\sdk\\libcxx_helper" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=21" ^
+  "-DANDROID_PLATFORM=android-21" ^
+  "-DANDROID_ABI=x86" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=x86" ^
+  "-DANDROID_NDK=C:\\Users\\gamep\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\gamep\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\gamep\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\gamep\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\gamep\\Desktop\\fin\\CrawlerApp_vUART\\sdk\\build\\intermediates\\cxx\\Debug\\6f2o1o4g\\obj\\x86" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\gamep\\Desktop\\fin\\CrawlerApp_vUART\\sdk\\build\\intermediates\\cxx\\Debug\\6f2o1o4g\\obj\\x86" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BC:\\Users\\gamep\\Desktop\\fin\\CrawlerApp_vUART\\sdk\\.cxx\\Debug\\6f2o1o4g\\x86" ^
+  -GNinja ^
+  "-DANDROID_STL=c++_shared"

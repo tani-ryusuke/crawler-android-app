@@ -1,0 +1,82 @@
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 16ms]
+  create-invalidation-state 144ms
+  execute-generate-process
+    [gap of 14ms]
+    exec-configure 3837ms
+    [gap of 89ms]
+  execute-generate-process completed in 3940ms
+  [gap of 96ms]
+generate_cxx_metadata completed in 4224ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 12ms]
+  create-invalidation-state 83ms
+  [gap of 161ms]
+generate_cxx_metadata completed in 256ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 11ms]
+  create-invalidation-state 58ms
+  [gap of 137ms]
+  write-metadata-json-to-file 10ms
+generate_cxx_metadata completed in 217ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 19ms]
+  create-invalidation-state 158ms
+  execute-generate-process
+    [gap of 18ms]
+    exec-configure 1479ms
+    [gap of 79ms]
+  execute-generate-process completed in 1576ms
+  [gap of 105ms]
+generate_cxx_metadata completed in 1892ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 15ms]
+  create-invalidation-state 131ms
+  execute-generate-process
+    [gap of 14ms]
+    exec-configure 3156ms
+    [gap of 67ms]
+  execute-generate-process completed in 3237ms
+  [gap of 117ms]
+generate_cxx_metadata completed in 3528ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 21ms]
+  create-invalidation-state 81ms
+  [gap of 321ms]
+  write-metadata-json-to-file 18ms
+generate_cxx_metadata completed in 442ms
+
+# C/C++ build system timings
+generate_cxx_metadata 10ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 18ms]
+  create-invalidation-state 194ms
+  execute-generate-process
+    [gap of 17ms]
+    exec-configure 4169ms
+    [gap of 55ms]
+  execute-generate-process completed in 4241ms
+  [gap of 91ms]
+generate_cxx_metadata completed in 4576ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 37ms]
+  create-invalidation-state 199ms
+  [gap of 352ms]
+  write-metadata-json-to-file 45ms
+generate_cxx_metadata completed in 636ms
+
