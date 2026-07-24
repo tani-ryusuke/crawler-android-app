@@ -1,4 +1,4 @@
-# crawler-android-app
+# クローラー用androidapp
 
 XIAO ESP32S3を搭載したクローラーロボットからのリアルタイム映像ストリームを受信し、Android端末上で**YOLOv11を用いた物体検知**を行う、および**UART/UDP通信によるロボットのステータス監視機能**を備えたAndroidアプリケーションです。
 
