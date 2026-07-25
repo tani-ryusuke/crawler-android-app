@@ -1,4 +1,4 @@
-# 📄 Androidアプリ メイン処理のフロー解説
+# Androidアプリ メイン処理のフロー解説
 
 XIAO ESP32S3からのMJPEG映像ストリームの受信とOpenCVを用いた描画、ONNX RuntimeによるYOLOv11リアルタイム物体検知、およびUDP通信を通じた本体ステータス（RSSI・モード・ボタン・センサー）の監視。
 
